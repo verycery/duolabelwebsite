@@ -1,0 +1,405 @@
+This is the FINAL enterprise-level refinement.
+
+The website is already functional.
+
+DO NOT redesign everything.
+
+Instead, polish every detail until the website reaches international agency quality.
+
+The goal is to make Duo Label look like a premium European label manufacturer.
+
+Think:
+
+Apple
+
+Porsche
+
+Siemens
+
+Avery Dennison
+
+UPM Raflatac
+
+CCL Label
+
+====================================================
+1. REPLACE THE LOGO
+====================================================
+
+Replace the current logo with the NEW uploaded logo.
+
+Use ONLY the newly uploaded logo asset.
+
+Do not use the previous logo anymore.
+
+Requirements:
+
+• Maximum resolution
+
+• Preserve transparency
+
+• Crisp edges
+
+• No compression
+
+• No blur
+
+• SVG-like quality
+
+• Subtle premium glow
+
+• Proper drop shadow
+
+The logo should become a hero branding element.
+
+Increase the logo size approximately 250–300%.
+
+Increase navbar height if needed.
+
+The logo should immediately attract attention.
+
+====================================================
+2. PREMIUM TYPOGRAPHY
+====================================================
+
+The current typography still feels generic.
+
+Replace it completely.
+
+Use a premium modern font.
+
+Preferred order:
+
+• Neue Haas Grotesk
+
+• General Sans
+
+• Satoshi
+
+• Manrope
+
+• Inter Tight
+
+Typography should feel like Apple.
+
+Increase readability.
+
+Improve hierarchy.
+
+Improve spacing.
+
+Improve line-height.
+
+Improve paragraph width.
+
+====================================================
+3. HERO
+====================================================
+
+Keep everything centered.
+
+Improve spacing.
+
+Increase visual impact.
+
+Better typography.
+
+More premium CTA buttons.
+
+====================================================
+4. PRODUCT IMAGES
+====================================================
+
+Replace any remaining generic images.
+
+Every label image should look like:
+
+professional industrial photography
+
+real production
+
+real label rolls
+
+real adhesive
+
+real materials
+
+real shadows
+
+macro photography
+
+No AI looking renders.
+
+====================================================
+5. GOOGLE MAPS
+====================================================
+
+The English version currently uses the wrong location.
+
+Replace the English Google Maps embed.
+
+Use:
+
+London, United Kingdom
+
+The map should open directly on London.
+
+The Turkish version can continue using Türkiye.
+
+====================================================
+6. CONTACT
+====================================================
+
+English version must ONLY contain:
+
++44 7780 433977
+
+No Turkish phone number should appear anywhere in English.
+
+Email:
+
+info@duolabel.com
+
+====================================================
+7. SEO (VERY IMPORTANT)
+====================================================
+
+Implement a complete professional SEO strategy.
+
+Include:
+
+### Technical SEO
+
+• sitemap.xml
+
+• robots.txt
+
+• canonical URLs
+
+• proper heading hierarchy
+
+• Open Graph tags
+
+• Twitter Cards
+
+• structured data (Schema.org)
+
+• Organization schema
+
+• Local Business schema
+
+• Product schema where appropriate
+
+• FAQ schema
+
+• Breadcrumb schema
+
+====================================================
+
+### Metadata
+
+Create unique meta title and meta description for EVERY page.
+
+Example pages:
+
+Home
+
+About
+
+Products
+
+Technical Support
+
+Materials
+
+Printing Technologies
+
+Contact
+
+Each page should have unique SEO content.
+
+====================================================
+
+### Keyword Strategy
+
+Target keywords such as:
+
+industrial labels
+
+custom labels
+
+roll labels
+
+barcode labels
+
+thermal labels
+
+PP labels
+
+PE labels
+
+PET labels
+
+BOPP labels
+
+food labels
+
+cosmetic labels
+
+pharmaceutical labels
+
+logistics labels
+
+industrial printing
+
+label manufacturer
+
+label supplier
+
+custom printed labels
+
+self adhesive labels
+
+premium label manufacturer
+
+Turkey label manufacturer
+
+UK label supplier
+
+====================================================
+
+### Performance SEO
+
+Improve:
+
+Largest Contentful Paint
+
+CLS
+
+Accessibility
+
+Lazy loading
+
+Image optimisation
+
+Font optimisation
+
+Code splitting
+
+Compression
+
+Preloading
+
+====================================================
+
+### Image SEO
+
+Every image should include:
+
+descriptive filename
+
+alt text
+
+title attribute
+
+loading strategy
+
+====================================================
+
+### Internal Linking
+
+Improve internal links.
+
+Products should connect to:
+
+materials
+
+applications
+
+technical support
+
+contact
+
+catalog
+
+====================================================
+
+### Content SEO
+
+Rewrite headings where necessary.
+
+Avoid duplicate text.
+
+Create stronger semantic structure.
+
+Use proper H1
+
+H2
+
+H3
+
+H4 hierarchy.
+
+====================================================
+8. PREMIUM DETAILS
+====================================================
+
+Improve every component.
+
+Better spacing.
+
+Better shadows.
+
+Better cards.
+
+Better icons.
+
+Better hover animations.
+
+Better gradients.
+
+More luxurious feeling.
+
+====================================================
+9. FINAL QUALITY CHECK
+====================================================
+
+Before completing this task verify that ALL items below are complete.
+
+✓ New uploaded logo is used
+
+✓ Logo is approximately 3x larger
+
+✓ Premium typography
+
+✓ Better spacing
+
+✓ Better hierarchy
+
+✓ English Google Maps points to London
+
+✓ English phone ONLY +44 7780 433977
+
+✓ Professional SEO fully implemented
+
+✓ Sitemap generated
+
+✓ Robots.txt generated
+
+✓ Structured data implemented
+
+✓ Open Graph complete
+
+✓ Twitter Cards complete
+
+✓ Canonical URLs complete
+
+✓ Better accessibility
+
+✓ Faster performance
+
+✓ Premium product photography
+
+✓ Agency-level visual quality
+
+Do not stop until every single item above has been fully implemented.

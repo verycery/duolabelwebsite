@@ -1,0 +1,440 @@
+The previous implementation is still incomplete.
+
+Do NOT make minor adjustments.
+
+This is the FINAL refinement pass.
+
+Review every page, every component and every section against the previous requirements and implement EVERYTHING that is still missing.
+
+The final website must look like a premium international industrial manufacturer, not a startup template.
+
+====================================================
+CRITICAL PRIORITY
+====================================================
+
+This update should focus on QUALITY, not quantity.
+
+Everything must feel handcrafted.
+
+Every section should look significantly more premium than the current implementation.
+
+====================================================
+1. LOGO (HIGHEST PRIORITY)
+====================================================
+
+The logo is STILL far too small.
+
+This is currently the biggest visual weakness of the website.
+
+Increase the logo dramatically.
+
+Target approximately 250%–300% of its current visual size.
+
+The logo should become one of the strongest visual elements on the website.
+
+Requirements:
+
+• Maximum quality
+• No blur
+• No compression
+• Perfect transparency
+• Better spacing
+• Larger navbar if necessary
+• Premium subtle glow
+• Higher visual impact
+
+The logo should immediately communicate a luxury industrial brand.
+
+====================================================
+2. HERO SECTION
+====================================================
+
+The hero section is still left aligned.
+
+Everything must become CENTER ALIGNED.
+
+Center:
+
+• badge
+• title
+• subtitle
+• paragraph
+• CTA buttons
+• trust indicators
+• spacing
+
+Everything should be perfectly centered.
+
+The hero should feel similar to Apple, Porsche or Siemens.
+
+====================================================
+3. TYPOGRAPHY
+====================================================
+
+Typography still feels ordinary.
+
+Improve:
+
+• font hierarchy
+
+• larger headings
+
+• improved line-height
+
+• spacing
+
+• readability
+
+• premium appearance
+
+Text should be much easier to read.
+
+====================================================
+4. CONTENT ALIGNMENT
+====================================================
+
+Many sections are still left aligned.
+
+Where appropriate, center-align headings, descriptions and section introductions.
+
+Maintain balanced layouts throughout the website.
+
+Create a much cleaner premium composition.
+
+====================================================
+5. PRODUCT PORTFOLIO
+====================================================
+
+Current product cards still don't feel premium.
+
+Increase card size.
+
+Increase spacing.
+
+Improve hover effects.
+
+Every product image must be replaced with ultra-realistic industrial photography.
+
+NOT AI renders.
+
+NOT mockups.
+
+Real professional product photography showing:
+
+• coated labels
+
+• vellum labels
+
+• PP labels
+
+• PE labels
+
+• PET labels
+
+• BOPP labels
+
+• barcode labels
+
+• thermal labels
+
+• cosmetic labels
+
+• food labels
+
+• industrial labels
+
+Images should show:
+
+real adhesive
+
+real label rolls
+
+macro details
+
+studio lighting
+
+premium reflections
+
+real paper texture
+
+====================================================
+6. PRODUCT DETAIL PAGES
+====================================================
+
+Every product should have a dedicated premium detail page.
+
+Include:
+
+• gallery
+
+• technical specifications
+
+• materials
+
+• adhesive options
+
+• finishing
+
+• industries
+
+• durability
+
+• dimensions
+
+• applications
+
+====================================================
+7. CATALOG
+====================================================
+
+The Full Product Catalog button must ALWAYS open the supplied Duo Label Corporate Catalog PDF in a new browser tab.
+
+Never use placeholders.
+
+Never download automatically.
+
+====================================================
+8. TECHNICAL SUPPORT
+====================================================
+
+Current section is still much too short.
+
+Expand significantly.
+
+Present Duo Label as an engineering company.
+
+Include detailed descriptions of:
+
+• machine installation
+
+• commissioning
+
+• preventive maintenance
+
+• scheduled maintenance
+
+• machine diagnostics
+
+• troubleshooting
+
+• calibration
+
+• ribbon optimisation
+
+• printer installation
+
+• barcode verification
+
+• production consultancy
+
+• material engineering
+
+• colour management
+
+• operator training
+
+• process optimisation
+
+• after-sales engineering support
+
+The section should feel like a dedicated engineering department.
+
+====================================================
+9. CONTACT SECTION
+====================================================
+
+The contact section still needs improvement.
+
+Use larger cards.
+
+Better spacing.
+
+Premium layout.
+
+Google Maps.
+
+Business hours.
+
+Quick quotation.
+
+WhatsApp.
+
+Corporate email.
+
+====================================================
+10. ENGLISH VERSION
+====================================================
+
+The English version still contains two different phone numbers.
+
+This is incorrect.
+
+Remove every other phone number.
+
+The English website must display ONLY:
+
++44 7780 433977
+
+No Turkish phone number should appear anywhere in the English version.
+
+Review every English paragraph again.
+
+Rewrite everything using native C2 British business English.
+
+No direct translations.
+
+====================================================
+11. TURKISH VERSION
+====================================================
+
+Review every Turkish paragraph.
+
+Improve wording.
+
+Perfect grammar.
+
+Professional corporate language.
+
+Natural flow.
+
+====================================================
+12. EMAIL SYSTEM
+====================================================
+
+Every "Request Quote" and "Submit Request" button must send a real email.
+
+Recipient:
+
+info@duolabel.com
+
+Requirements:
+
+• backend email
+
+• no mailto
+
+• HTML email template
+
+• spam protection
+
+• rate limiting
+
+• server validation
+
+• secure credentials
+
+• success animation
+
+====================================================
+13. BUTTONS
+====================================================
+
+Upgrade every button.
+
+Luxury hover effects.
+
+Soft shadows.
+
+Premium transitions.
+
+====================================================
+14. ANIMATIONS
+====================================================
+
+Current animations still feel basic.
+
+Upgrade:
+
+scroll animations
+
+hover animations
+
+page transitions
+
+micro interactions
+
+Everything should be smoother.
+
+====================================================
+15. CONTENT WIDTH
+====================================================
+
+Increase content width.
+
+More breathing room.
+
+The website currently feels too narrow.
+
+====================================================
+16. PREMIUM DETAILS
+====================================================
+
+Improve:
+
+glass reflections
+
+lighting
+
+shadows
+
+dividers
+
+icon consistency
+
+spacing
+
+section transitions
+
+====================================================
+17. VISUAL QUALITY
+====================================================
+
+Every section should look like it belongs on a world-class manufacturing website.
+
+No generic templates.
+
+No placeholder appearance.
+
+No startup feeling.
+
+====================================================
+18. FINAL QUALITY CONTROL
+====================================================
+
+Before finishing, verify ALL items below are complete:
+
+✅ Logo approximately 3x larger
+
+✅ Hero completely centered
+
+✅ Larger premium typography
+
+✅ Better spacing
+
+✅ Centered section introductions
+
+✅ Ultra-realistic product photography
+
+✅ Premium product cards
+
+✅ Expanded engineering section
+
+✅ Real working quotation system
+
+✅ Catalog opens the supplied PDF
+
+✅ English version ONLY shows +44 7780 433977
+
+✅ Turkish version uses perfect Turkish
+
+✅ English version uses native C2 business English
+
+✅ Apple-level animations
+
+✅ Porsche-level visual polish
+
+✅ Siemens-level corporate appearance
+
+Do NOT stop after implementing only part of these requests.
+
+Review the entire website one final time and ensure every requirement above has been fully implemented before considering the task complete.

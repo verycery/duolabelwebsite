@@ -1,0 +1,372 @@
+You are a senior CTO, senior UI/UX architect, B2B industrial branding expert, conversion optimization specialist, and senior Next.js frontend engineer.
+
+We are building the official production-ready website for a premium industrial label manufacturer called “Duo Label”.
+
+The current website already exists, but it still feels like a stylish demo/template instead of a real high-end industrial manufacturing company.
+
+Your task is to redesign and restructure the entire website into a world-class B2B industrial manufacturing website with premium corporate quality, export-grade trust signals, modern UI/UX, SEO architecture, and high conversion optimization.
+
+The visual identity must feel:
+- industrial
+- premium
+- engineering-focused
+- modern
+- dark luxury
+- European export-grade
+- technically sophisticated
+- trustworthy for large B2B buyers
+
+The website should feel similar in quality level to:
+- Avery Dennison
+- UPM Raflatac
+- HP Indigo industrial pages
+- Stripe-level clean UI
+- Apple-level spacing and animation
+- modern European industrial brands
+
+==================================================
+CORE OBJECTIVES
+==================================================
+
+1. Increase premium brand perception
+2. Make the company feel like a real large-scale manufacturer
+3. Increase B2B trust and conversion
+4. Create SEO-ready architecture
+5. Prepare infrastructure for Cloudflare Pages deployment
+6. Make the site export/customer acquisition focused
+7. Improve mobile experience dramatically
+8. Create real enterprise-grade visual hierarchy
+9. Make the site fast and production ready
+10. Remove template/demo feeling completely
+
+==================================================
+HEADER / NAVBAR IMPROVEMENTS
+==================================================
+
+The current logo is too small and weak.
+
+Requirements:
+- Increase logo size significantly
+- Logo must dominate the navbar visually
+- Desktop logo height: 56px–72px
+- Mobile logo height: 44px–52px
+- Use SVG logo
+- Add more whitespace and premium spacing
+
+Navbar must:
+- become sticky on scroll
+- have blurred glassmorphism background
+- shrink slightly on scroll
+- include subtle border and shadow
+- feel enterprise-grade
+
+Navbar layout:
+LEFT:
+- large Duo Label logo
+
+CENTER:
+- navigation items
+
+RIGHT:
+- strong CTA button:
+“Teklif Al”
+
+Navbar background:
+- dark industrial blue
+- transparent blur
+- premium subtle borders
+
+==================================================
+VISUAL DIRECTION
+==================================================
+
+The website must feel:
+- cinematic
+- industrial
+- realistic
+- engineered
+- premium
+- export-quality
+
+Use:
+- dark navy
+- metallic gray
+- subtle gradients
+- industrial lighting
+- glass effects
+- modern shadows
+- premium typography
+
+Avoid:
+- startup template feeling
+- generic SaaS feeling
+- fake AI aesthetic
+- oversaturated gradients
+- childish animations
+
+==================================================
+REAL INDUSTRIAL TRUST
+==================================================
+
+Add sections for:
+- real factory production
+- machinery visuals
+- production workflow
+- quality control
+- technical engineering support
+- export operations
+- certifications
+- manufacturing capability
+
+Add:
+- ISO certifications area
+- export capability section
+- production capacity section
+- technical specifications section
+- machinery compatibility section
+
+The website must clearly communicate:
+“We are a serious industrial manufacturer.”
+
+==================================================
+HOMEPAGE STRUCTURE
+==================================================
+
+Rebuild homepage professionally with these sections:
+
+1. Hero Section
+- massive industrial typography
+- premium animated background
+- stronger CTA hierarchy
+- realistic industrial imagery/video
+- clear export-grade messaging
+
+2. Trust Indicators
+- years of experience
+- production volume
+- industries served
+- fast delivery
+- technical support
+
+3. Product Categories
+Create visually powerful product cards:
+- Kuşe Etiket
+- PP/PE Etiket
+- Şeffaf Etiket
+- Termal Etiket
+- Barkod Etiket
+- Kozmetik Etiketleri
+- Gıda Etiketleri
+- Lojistik Etiketleri
+
+Each card must include:
+- realistic material visual
+- industry usage
+- technical specs
+- CTA buttons
+
+4. Industry Solutions
+Dedicated sectors:
+- Kozmetik
+- Gıda
+- İçecek
+- Lojistik
+- Kimya
+- Sağlık
+- Endüstriyel Üretim
+- Perakende
+
+5. Technical Expertise Section
+Must feel like engineering consultancy.
+
+6. Material Science Section
+Premium technical visual layout.
+
+7. Manufacturing Capabilities
+Show factory-level operational competence.
+
+8. Blog / Knowledge Center
+Must feel like industrial expertise center.
+
+9. Contact / Lead Generation
+Enterprise-grade lead form.
+
+==================================================
+LEAD GENERATION
+==================================================
+
+The website is NOT just informational.
+It must generate B2B leads aggressively.
+
+Primary CTAs:
+- Teklif Al
+- Numune Talep Et
+- Teknik Danışmanlık
+- WhatsApp’tan Yaz
+- Katalog İndir
+
+Lead forms must:
+- feel enterprise-grade
+- have premium inputs
+- modern validation
+- smooth interactions
+- mobile optimization
+
+==================================================
+SEO ARCHITECTURE
+==================================================
+
+Convert the site from single-page demo into real SEO structure.
+
+Create pages:
+/
+/about
+/products
+/products/kuse-etiket
+/products/pp-pe-etiket
+/products/seffaf-etiket
+/products/termal-etiket
+/products/barkod-etiket
+/sectors
+/blog
+/contact
+/tr
+/en
+
+Implement:
+- proper H1/H2 hierarchy
+- metadata
+- OpenGraph
+- structured data
+- sitemap
+- robots.txt
+- semantic HTML
+- SEO friendly URLs
+
+==================================================
+BLOG SYSTEM
+==================================================
+
+Create professional industrial blog system.
+
+Topics:
+- label materials
+- adhesive technologies
+- thermal vs PP labels
+- industrial labeling
+- food-safe adhesives
+- cosmetic label engineering
+- export packaging labels
+- barcode durability
+
+Blog cards must:
+- feel editorial
+- premium typography
+- technical authority
+
+==================================================
+PERFORMANCE
+==================================================
+
+Optimize heavily for:
+- Core Web Vitals
+- image optimization
+- lazy loading
+- font optimization
+- responsive images
+- smooth animation performance
+
+Target:
+- 90+ Lighthouse mobile
+- 95+ desktop
+
+==================================================
+TECHNICAL STACK
+==================================================
+
+Use:
+- Next.js
+- TailwindCSS
+- Framer Motion
+- responsive architecture
+- reusable components
+- scalable folder structure
+
+Prepare project for:
+- GitHub deployment
+- Cloudflare Pages deployment
+- production environment
+
+==================================================
+ANIMATIONS
+==================================================
+
+Animations must be:
+- subtle
+- premium
+- smooth
+- cinematic
+
+Use:
+- fade-up
+- reveal animations
+- scroll transitions
+- micro interactions
+- premium hover effects
+
+Avoid:
+- excessive motion
+- cheap effects
+- exaggerated parallax
+
+==================================================
+MOBILE EXPERIENCE
+==================================================
+
+Mobile version must feel:
+- premium
+- ultra clean
+- smooth
+- native-app quality
+
+Prioritize:
+- spacing
+- typography
+- CTA visibility
+- touch targets
+- mobile navbar
+- performance
+
+==================================================
+FOOTER
+==================================================
+
+Footer must feel enterprise-grade.
+
+Include:
+- address
+- phone
+- email
+- export contact
+- quick navigation
+- certifications
+- social links
+- copyright
+- legal/company information
+
+==================================================
+FINAL EXPECTATION
+==================================================
+
+The final result must NOT feel like:
+- a template
+- startup landing page
+- generic AI-generated site
+
+It MUST feel like:
+- a real premium industrial manufacturer
+- export-grade enterprise company
+- technically sophisticated engineering brand
+- high-trust B2B production company
+
+Generate production-quality improvements, layout restructuring, component redesigns, UI upgrades, and code architecture decisions accordingly.

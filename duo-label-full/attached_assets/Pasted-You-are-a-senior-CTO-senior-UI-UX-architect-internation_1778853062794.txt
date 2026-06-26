@@ -1,0 +1,490 @@
+You are a senior CTO, senior UI/UX architect, international B2B branding director, conversion optimization expert, export-focused digital strategist, and elite Next.js frontend engineer.
+
+Your task is to transform the existing Duo Label website into a world-class premium industrial manufacturing platform that feels like a real global export-grade enterprise company — not a startup template, landing page, or AI-generated demo.
+
+The company:
+Duo Label
+Premium Industrial Label Manufacturing & Technical Solutions
+
+The final website must immediately communicate:
+- industrial authority
+- engineering precision
+- export capability
+- premium manufacturing quality
+- technical sophistication
+- enterprise trust
+- European-grade professionalism
+
+The website quality should feel comparable to:
+- Avery Dennison
+- UPM Raflatac
+- HP Indigo industrial pages
+- Apple
+- Stripe
+- Siemens industrial pages
+- premium European manufacturing brands
+
+==================================================
+MOST CRITICAL PRIORITY — GLOBAL BRAND POSITIONING
+==================================================
+
+The website currently feels visually good but still behaves like a stylish demo/template.
+
+Your mission is to completely eliminate:
+- startup feeling
+- generic SaaS look
+- AI-generated aesthetic
+- template structure
+- fake industrial vibe
+
+The website must instead feel like:
+- a real industrial manufacturer
+- a trusted export supplier
+- a technically advanced engineering company
+- a serious B2B production partner
+
+==================================================
+CRITICAL ISSUE — ENGLISH VERSION IS TOO WEAK
+==================================================
+
+The English version must be dramatically improved.
+
+Right now it feels:
+- translated
+- generic
+- not globally positioned
+- not export-focused enough
+- lacking technical authority
+- weak in enterprise trust
+
+The English version must feel like:
+- an international industrial corporation
+- a serious European exporter
+- a global B2B supplier
+- an engineering-driven manufacturing company
+
+==================================================
+ENGLISH COPYWRITING REQUIREMENTS
+==================================================
+
+Rewrite ALL English texts professionally.
+
+The English copy must:
+- sound native-level
+- sound corporate
+- sound technically intelligent
+- sound globally trusted
+- sound premium
+- sound export-ready
+- sound engineering-focused
+
+Avoid:
+- generic marketing phrases
+- AI-generated wording
+- startup buzzwords
+- repetitive text
+- weak translations
+
+The tone should feel:
+- authoritative
+- precise
+- premium
+- technical
+- sophisticated
+- globally competitive
+
+==================================================
+EXAMPLE OF DESIRED ENGLISH TONE
+==================================================
+
+BAD:
+“Premium labels for every business.”
+
+GOOD:
+“Engineered label systems designed for demanding industrial, retail, and export applications.”
+
+BAD:
+“We provide quality.”
+
+GOOD:
+“Every production batch is manufactured under strict material, adhesive, and print-quality controls to ensure consistent performance across high-volume applications.”
+
+==================================================
+GLOBAL EXPORT POSITIONING
+==================================================
+
+The English version must strongly communicate:
+- export capability
+- manufacturing reliability
+- technical engineering support
+- production flexibility
+- industrial expertise
+- international supply readiness
+
+Add enterprise-level messaging around:
+- global distribution
+- OEM compatibility
+- industrial standards
+- quality assurance
+- material engineering
+- supply chain reliability
+
+==================================================
+CRITICAL BRANDING UPDATE — LOGO SYSTEM
+==================================================
+
+The current logo is too small and weak.
+It reduces premium perception.
+
+Completely redesign the navbar hierarchy.
+
+LOGO REQUIREMENTS:
+- logo must become significantly larger
+- visually dominant
+- premium spacing
+- SVG quality
+- sharp and clean
+- industrial luxury feeling
+
+Desktop:
+- 56px–72px height
+
+Mobile:
+- 44px–52px height
+
+Navbar structure:
+LEFT:
+- large Duo Label logo
+
+CENTER:
+- navigation
+
+RIGHT:
+- strong CTA button:
+“Request Quote”
+
+Navbar behavior:
+- sticky
+- glassmorphism blur
+- premium transition
+- shrink slightly on scroll
+- subtle shadow
+- dark industrial styling
+
+Navbar should feel:
+- Apple-level spacing
+- Stripe-level cleanliness
+- European industrial elegance
+
+==================================================
+VISUAL DIRECTION
+==================================================
+
+The entire visual identity must feel:
+- cinematic industrial
+- engineering-driven
+- premium dark luxury
+- modern manufacturing
+- realistic factory environment
+- export-grade professionalism
+
+Use:
+- dark navy
+- steel gray
+- subtle metallic textures
+- cinematic lighting
+- realistic industrial visuals
+- premium typography
+- elegant spacing
+- glass effects
+
+Avoid:
+- bright startup colors
+- fake AI renders
+- childish motion
+- generic gradients
+- stock-template feeling
+
+==================================================
+REAL INDUSTRIAL TRUST
+==================================================
+
+Add enterprise trust sections:
+- production capabilities
+- factory workflow
+- quality control
+- engineering consultation
+- export operations
+- manufacturing standards
+- certifications
+- machinery compatibility
+- material science expertise
+
+The company must feel:
+“large-scale industrial manufacturer.”
+
+==================================================
+HOMEPAGE REBUILD
+==================================================
+
+Rebuild homepage professionally.
+
+Required sections:
+1. Hero Section
+2. Trust Indicators
+3. Product Systems
+4. Industry Solutions
+5. Engineering Expertise
+6. Material Science
+7. Manufacturing Capabilities
+8. Certifications
+9. Knowledge Center
+10. Enterprise Contact System
+
+==================================================
+HERO SECTION
+==================================================
+
+Hero section must feel world-class.
+
+Requirements:
+- massive typography
+- cinematic industrial visuals
+- premium atmosphere
+- engineering-focused messaging
+- realistic production visuals
+- export-ready positioning
+
+Primary CTAs:
+- Request Quote
+- Request Samples
+- Download Catalog
+- WhatsApp Consultation
+
+==================================================
+PRODUCT SYSTEM
+==================================================
+
+Create premium enterprise-grade product cards.
+
+Products:
+- Coated Labels
+- PP / PE Labels
+- Transparent Labels
+- Thermal Labels
+- Barcode Labels
+- Cosmetic Labels
+- Food Labels
+- Logistics Labels
+
+Each card must include:
+- technical explanation
+- industrial usage
+- realistic materials
+- premium hover effects
+- strong CTA hierarchy
+
+==================================================
+INDUSTRY SOLUTIONS
+==================================================
+
+Industries:
+- Cosmetics
+- Food & Beverage
+- Retail
+- Logistics
+- Healthcare
+- Industrial Manufacturing
+- Chemicals
+- Export Packaging
+
+Each industry section should feel like:
+- a specialized industrial solution
+- not generic marketing
+
+==================================================
+KNOWLEDGE CENTER
+==================================================
+
+Create a real industrial knowledge hub.
+
+Topics:
+- adhesive technologies
+- industrial label engineering
+- material durability
+- thermal vs polypropylene
+- export packaging standards
+- food-safe labeling
+- industrial barcode systems
+- harsh-environment labels
+
+The blog must feel:
+- editorial
+- technical
+- authoritative
+- globally competitive
+
+==================================================
+SEO ARCHITECTURE
+==================================================
+
+Transform the site into real enterprise SEO structure.
+
+Pages:
+/
+/about
+/products
+/products/coated-labels
+/products/pp-pe-labels
+/products/transparent-labels
+/products/thermal-labels
+/products/barcode-labels
+/sectors
+/blog
+/contact
+/tr
+/en
+
+Implement:
+- metadata
+- OpenGraph
+- semantic HTML
+- structured data
+- sitemap
+- robots.txt
+- H1/H2 hierarchy
+- multilingual SEO
+
+==================================================
+MULTILINGUAL SYSTEM
+==================================================
+
+The multilingual structure must be professional.
+
+Use:
+- /tr
+- /en
+
+Do NOT use:
+- simple text swap toggles
+
+Requirements:
+- separate SEO indexing
+- separate metadata
+- proper language routing
+- enterprise multilingual architecture
+
+English pages must feel:
+- globally localized
+- not translated
+
+==================================================
+LEAD GENERATION
+==================================================
+
+The website must aggressively generate B2B leads.
+
+Main CTAs:
+- Request Quote
+- Request Samples
+- Technical Consultation
+- Download Catalog
+- WhatsApp Support
+
+Forms must:
+- feel enterprise-grade
+- include smooth validation
+- premium inputs
+- modern interactions
+- mobile optimization
+
+==================================================
+ANIMATIONS
+==================================================
+
+Animations must be:
+- subtle
+- cinematic
+- smooth
+- premium
+- engineering-grade
+
+Use:
+- elegant reveal animations
+- fade transitions
+- micro interactions
+- refined hover effects
+
+Avoid:
+- exaggerated movement
+- cheap motion
+- distracting effects
+
+==================================================
+MOBILE EXPERIENCE
+==================================================
+
+Mobile experience must feel:
+- ultra premium
+- smooth
+- native-app quality
+- enterprise-level
+
+Prioritize:
+- typography
+- spacing
+- CTA visibility
+- touch optimization
+- performance
+- navbar usability
+
+==================================================
+PERFORMANCE
+==================================================
+
+Optimize heavily for:
+- Core Web Vitals
+- Lighthouse
+- image optimization
+- lazy loading
+- font loading
+- animation performance
+- responsive rendering
+
+Targets:
+- 90+ mobile
+- 95+ desktop
+
+==================================================
+TECH STACK
+==================================================
+
+Use:
+- Next.js
+- TailwindCSS
+- Framer Motion
+- scalable component system
+- reusable architecture
+- responsive layouts
+
+Prepare for:
+- GitHub deployment
+- Cloudflare Pages deployment
+- production environment
+
+==================================================
+FINAL EXPECTATION
+==================================================
+
+The final result must feel like:
+- a real industrial manufacturing corporation
+- a premium export-grade supplier
+- a technically advanced engineering company
+- a global B2B industrial brand
+
+The English version especially must feel:
+“internationally trusted, technically sophisticated, export-ready, and enterprise-level.”
+
+Most importantly:
+The entire website must instantly communicate:
+“large-scale premium industrial manufacturer with global export capability.”

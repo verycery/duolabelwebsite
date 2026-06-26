@@ -1,0 +1,177 @@
+Refine and upgrade the Duo Label website further.
+
+IMPORTANT:
+The website is already visually strong.
+Now optimize it for REALISM, TRUST, VISUAL DEPTH, and CUSTOMER EXPERIENCE.
+
+PRIMARY LANGUAGE:
+Turkish must be the default/main language.
+English should be the secondary language.
+
+Requirements:
+- website opens in Turkish by default
+- EN version remains available with language switcher
+- Turkish copy must feel natural, premium, corporate, and professional
+- avoid robotic translations
+- preserve luxury industrial tone in both languages
+
+REMOVE THESE ELEMENTS:
+- fake engineering certifications
+- fake ISO badges
+- fake SGS badges
+- fake “years of experience”
+- fake country counters
+- fake statistics
+- fake technical machine specifications
+- fake manufacturing numbers
+- fake claims that cannot be verified
+
+IMPORTANT:
+Do NOT invent machine names, technical data, certifications, or production capacities.
+Everything must feel believable and authentic.
+
+REALISM PRIORITY:
+The website should feel like a real premium İzmir-based label company, not a futuristic concept brand.
+
+GOOGLE MAPS:
+Use the REAL Duo Label location from Google Maps in İzmir, Turkey.
+
+Requirements:
+- exact real location
+- embedded Google Maps
+- proper map pin
+- premium dark styled map section
+- mobile optimized
+- integrated with contact section
+
+VISUAL UPGRADE:
+Add MANY MORE visuals throughout the website.
+
+Use:
+- ultra realistic label production visuals
+- realistic packaging label applications
+- cosmetic labels
+- food labels
+- beverage labels
+- industrial labels
+- barcode labels
+- thermal labels
+- close-up macro shots
+- realistic textures
+- premium product photography
+- cinematic industrial atmosphere
+
+IMPORTANT:
+Every major section must include strong visuals.
+
+SECTOR SHOWCASE:
+Create visually rich sections showing which industries Duo Label serves.
+
+Each sector must have:
+- realistic image/card
+- premium hover effect
+- short professional explanation
+
+SECTORS:
+- Kozmetik
+- Gıda
+- İçecek
+- Lojistik
+- Endüstriyel Üretim
+- Perakende
+- Kimya
+- Sağlık
+
+Use cinematic visuals for each industry.
+
+BLOG / KNOWLEDGE CENTER:
+Upgrade the blog visually.
+
+Requirements:
+- every article card must include realistic industrial visuals
+- modern editorial layout
+- premium typography
+- visual hierarchy
+- article preview images
+- realistic label/material photography
+
+Topics should feel professional and educational.
+
+NAVIGATION SYSTEM:
+At the top navbar, create category navigation tabs.
+
+IMPORTANT:
+Each menu item should smoothly scroll to its own section.
+
+Navbar structure:
+- Ana Sayfa
+- Hakkımızda
+- Ürünler
+- Sektörler
+- Teknik Destek
+- Blog
+- İletişim
+
+Add:
+- smooth scrolling
+- active section highlight
+- premium hover animations
+- sticky transparent navbar
+- mobile optimized menu
+
+PRODUCT SECTION:
+The product categories must become separate visual sections.
+
+Each category should have:
+- its own anchor section
+- premium visuals
+- realistic applications
+- material close-ups
+- modern layout
+- CTA buttons
+
+CATEGORIES:
+- Kuşe Etiket
+- PP / PE Etiket
+- Şeffaf Etiket
+- Termal Etiket
+- Barkod Etiket
+- Kozmetik Etiketleri
+- Gıda Etiketleri
+- Lojistik Etiketleri
+
+CONTACT SECTION:
+Keep:
+- WhatsApp integration
+- click-to-call
+- professional form
+
+Phone:
++90 553 316 49 20
+
+The form should feel premium and simple.
+
+VISUAL STYLE:
+Keep:
+- cinematic dark luxury aesthetic
+- black / graphite / metallic tones
+- electric blue accents
+- ultra smooth animations
+- Apple/Tesla inspired minimalism
+
+But:
+reduce the “fake futuristic” feeling.
+
+Everything must feel:
+REAL
+MODERN
+PREMIUM
+TRUSTWORTHY
+INDUSTRIAL
+HIGH-END
+
+TECH STACK:
+React + Tailwind + Framer Motion
+
+FINAL GOAL:
+Create one of the best-looking premium industrial label company websites in Turkey with strong visuals, real business feeling, and high customer conversion quality.

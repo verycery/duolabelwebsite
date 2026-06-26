@@ -1,0 +1,204 @@
+FINAL REFINEMENT PASS — IMPORTANT
+
+This is the LAST refinement pass.
+Prioritize realism, premium presentation, customer communication, and visual quality over experimental features.
+
+GENERAL DIRECTION:
+The website should feel like a REAL premium label company website, not a futuristic concept showcase.
+
+Keep:
+- cinematic luxury industrial aesthetic
+- premium dark UI
+- ultra realistic visuals
+- smooth animations
+- modern typography
+- Apple/Tesla-inspired presentation quality
+
+Reduce:
+- futuristic startup feeling
+- fake industrial marketing language
+- exaggerated claims
+
+========================================
+LANGUAGE SETTINGS
+========================================
+
+Turkish must remain the PRIMARY language.
+English remains secondary with language switcher.
+
+IMPORTANT CHANGE:
+Remove the headline:
+“İzmir’den Premium Etiket Üretimi”
+
+Do NOT use location-based manufacturing headlines anymore.
+
+Use more neutral premium headlines like:
+- “Premium Etiket Çözümleri”
+- “Modern Etiket Teknolojileri”
+- “Markanıza Değer Katan Etiket Çözümleri”
+- “Endüstriyel Etiketleme Çözümleri”
+
+English version:
+- “Premium Label Solutions”
+- “Modern Label Technologies”
+- “Industrial Labeling Solutions”
+
+========================================
+LOCATION INFORMATION
+========================================
+
+TR VERSION:
+Use the FULL REAL ADDRESS:
+
+Koşukavak Mah. 4213 Sk. No:8A
+Bornova / İzmir
+
+Use this exact format professionally in the contact section and footer.
+
+EN VERSION:
+Do NOT use İzmir.
+Simply use:
+London
+
+Keep the English version cleaner and simpler.
+
+========================================
+REMOVE MACHINE SECTION
+========================================
+
+Completely remove:
+- machine showcase section
+- machine technical details
+- rotating machine specs
+- production machinery explanations
+
+Instead:
+Expand the visual product presentation sections.
+
+========================================
+MORE VISUAL CONTENT
+========================================
+
+Increase visuals significantly across the entire website.
+
+Use:
+- realistic label applications
+- cosmetic packaging labels
+- food packaging labels
+- beverage labels
+- transparent labels
+- barcode labels
+- luxury product packaging
+- close-up macro material shots
+- premium product photography
+- industrial texture photography
+- realistic packaging scenes
+
+IMPORTANT:
+The generated visuals from previous iterations can also be reused throughout the website where appropriate.
+
+Every major section should feel visually rich and premium.
+
+========================================
+SECTORS SECTION
+========================================
+
+Keep the sectors section.
+
+Make every sector card more visual and premium.
+
+Sectors:
+- Kozmetik
+- Gıda
+- İçecek
+- Lojistik
+- Endüstriyel Üretim
+- Perakende
+- Kimya
+- Sağlık
+
+Each card should:
+- use realistic visuals
+- include hover animation
+- have premium dark gradients
+- feel cinematic and modern
+
+========================================
+BLOG SECTION
+========================================
+
+Strengthen the visual quality of the blog section.
+
+Requirements:
+- larger article visuals
+- premium editorial layout
+- realistic product and packaging photography
+- luxury typography
+- cleaner spacing
+- modern article cards
+- cinematic image overlays
+
+The blog should feel like a premium industrial magazine.
+
+========================================
+CONTACT FORM / EMAIL SYSTEM
+========================================
+
+VERY IMPORTANT:
+
+When users submit the “Talep Gönderin” form:
+
+The inquiry must automatically send as a real email.
+
+Implement:
+- working backend form handling
+- email delivery system
+- professional success/error states
+- loading animation during submission
+
+Preferred:
+Use Resend, EmailJS, Nodemailer, or another reliable modern email solution.
+
+The submitted form must include:
+- customer information
+- inquiry type
+- message content
+- uploaded file attachment if provided
+
+Send all inquiries to the company email professionally formatted.
+
+========================================
+WHATSAPP BUTTON
+========================================
+
+YES — ADD THE FLOATING WHATSAPP BUTTON.
+
+Requirements:
+- fixed bottom-right corner
+- elegant premium animation
+- subtle glow
+- mobile optimized
+- opens WhatsApp directly
+- visible on all pages
+- blend naturally into dark luxury UI
+
+Use phone number:
++90 553 316 49 20
+
+Do NOT make it oversized or cheap-looking.
+
+========================================
+FINAL DESIGN GOAL
+========================================
+
+The final website should feel:
+
+REAL
+PREMIUM
+MODERN
+TRUSTWORTHY
+VISUALLY RICH
+HIGH-END
+CUSTOMER-FOCUSED
+
+It should look like one of the best premium label company websites in Turkey.

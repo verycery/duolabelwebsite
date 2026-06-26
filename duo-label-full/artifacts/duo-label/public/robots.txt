@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.duolabel.com/sitemap.xml
+
+Disallow: /src/
+Disallow: /.vite/
+Disallow: /node_modules/

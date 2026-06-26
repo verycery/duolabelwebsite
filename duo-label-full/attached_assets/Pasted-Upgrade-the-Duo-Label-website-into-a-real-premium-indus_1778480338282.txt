@@ -1,0 +1,226 @@
+Upgrade the Duo Label website into a real premium industrial sales website focused on customer conversion, trust, technical support, and catalog-based product presentation.
+
+IMPORTANT:
+This is no longer a concept showcase.
+This must feel like a real established industrial company with real customers, real support, real manufacturing capabilities, and strong communication infrastructure.
+
+PRIMARY GOAL:
+Increase customer inquiries and build trust with industrial buyers.
+
+BRANDING:
+Use the uploaded Duo Label logo professionally throughout the website.
+
+Add:
+- animated logo intro
+- favicon
+- navbar logo
+- footer branding
+- premium monochrome adaptation on dark backgrounds
+
+OVERALL STYLE:
+Maintain the existing cinematic luxury industrial aesthetic:
+- ultra realistic
+- dark industrial premium
+- cinematic factory atmosphere
+- metallic silver and electric blue accents
+- smooth motion
+- Apple/Tesla-level presentation quality
+
+BUT:
+Make the site feel more corporate, trustworthy, and customer-oriented.
+
+REMOVE:
+- anything overly conceptual
+- fake futuristic startup feeling
+- unnecessary visual clutter
+
+ADD REAL BUSINESS STRUCTURE.
+
+MULTI LANGUAGE SUPPORT:
+The website must be fully bilingual:
+- English
+- Turkish
+
+Requirements:
+- add language switcher in navbar
+- translations must feel natural and premium
+- perfect grammar in both languages
+- no machine-translation feeling
+- typography and spacing must work beautifully in both languages
+- preserve premium tone in every section
+
+NEW WEBSITE STRUCTURE:
+
+1. HERO SECTION
+Focus on trust and industrial expertise.
+
+Headline examples:
+English:
+“Premium Label Manufacturing & Technical Solutions”
+“Industrial Precision in Every Label”
+
+Turkish:
+“Premium Etiket Üretimi ve Teknik Çözümler”
+“Her Etikette Endüstriyel Hassasiyet”
+
+Add:
+- clear CTA buttons
+- WhatsApp button
+- Request Catalog button
+- Request Quote button
+
+2. ABOUT DUO LABEL
+Add:
+- company mission
+- manufacturing expertise
+- customer-focused production philosophy
+- industrial quality standards
+- technical support capability
+
+Mention:
+- long-term business relationships
+- fast response
+- technical consultation
+- production flexibility
+
+3. PRODUCTS & CATALOG SECTION
+Create a REAL catalog-style presentation.
+
+Categories:
+- Gloss Labels
+- Matte Labels
+- PP / PE Labels
+- Transparent Labels
+- Thermal Labels
+- Barcode Labels
+- Industrial Labels
+- Cosmetic Labels
+- Food Packaging Labels
+- Logistics Labels
+
+Each category should have:
+- realistic preview visuals
+- usage areas
+- material explanations
+- CTA buttons:
+  "Request Technical Info"
+  "Request Sample"
+  "Get Catalog PDF"
+
+Create a downloadable premium PDF catalog section.
+
+4. TECHNICAL SUPPORT SECTION
+Very important.
+
+Show that Duo Label provides:
+- technical consulting
+- machine compatibility support
+- adhesive selection support
+- material recommendations
+- print quality troubleshooting
+- application support
+- after-sales communication
+
+Add realistic service cards with industrial visuals.
+
+Headline example:
+"Beyond Manufacturing — Technical Partnership"
+
+5. MACHINE & PRODUCTION SECTION
+Keep the cinematic visuals but make them more believable and informative.
+
+Add:
+- machine names
+- production capabilities
+- quality control process
+- precision manufacturing explanation
+- industrial workflow visuals
+
+6. BLOG / KNOWLEDGE CENTER
+Create a modern industrial blog section.
+
+Topics:
+- label material selection
+- adhesive technologies
+- industrial packaging solutions
+- printing technologies
+- label durability
+- thermal vs PP labels
+- technical labeling guides
+
+Make it SEO-focused and professional.
+
+7. CONTACT & CUSTOMER COMMUNICATION SECTION
+This section is CRITICAL.
+
+IMPORTANT:
+Use the REAL Duo Label contact information.
+
+Phone / WhatsApp:
++90 553 316 49 20
+
+The AI must search Google Maps and use the real Duo Label company location with:
+- exact business address
+- embedded Google Maps integration
+- accurate location pin
+- modern dark-style map section
+
+Add:
+- click-to-call support
+- direct WhatsApp integration
+- fast contact CTA
+- mobile optimized contact system
+
+Add a real professional inquiry form.
+
+FORM OPTIONS:
+Inquiry Type:
+- Price Quote
+- Catalog Request
+- Technical Support
+- Production Consultation
+- Sample Request
+- Urgent Production
+- Machine Compatibility Question
+
+Fields:
+- company name
+- contact person
+- phone
+- email
+- industry
+- label type needed
+- quantity
+- technical details
+- upload file option
+
+Add:
+- WhatsApp CTA
+- email contact
+- location map
+- business hours
+- fast response promise
+
+8. TRUST ELEMENTS
+Add:
+- production statistics
+- customer satisfaction metrics
+- industrial certifications placeholders
+- manufacturing process visuals
+- quality assurance messaging
+
+VISUAL REQUIREMENTS:
+Use:
+- ultra realistic factory imagery
+- cinematic industrial lighting
+- realistic printing materials
+- metallic machinery
+- macro production shots
+- premium dark UI
+
+Everything must feel REAL, TRUSTWORTHY, PREMIUM, and INDUSTRIAL.
+
+TECH STACK:
+React + Tailwind + Framer Motion.
+
+Prioritize customer conversion and professional communication over visual experimentation.

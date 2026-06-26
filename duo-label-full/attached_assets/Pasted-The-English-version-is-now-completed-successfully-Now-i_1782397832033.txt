@@ -1,0 +1,159 @@
+The English version is now completed successfully.
+
+Now implement the remaining FINAL improvements below exactly as requested.
+
+These are the last critical refinements before the website is production-ready.
+
+====================================================
+1. LOGO (HIGHEST PRIORITY)
+====================================================
+
+The new uploaded logo looks much better, but it is STILL not large enough.
+
+Increase the logo size significantly again.
+
+Target approximately 400–450% of the original navbar logo size.
+
+The logo should become the strongest branding element on the entire website.
+
+Requirements:
+
+• Use ONLY the latest uploaded logo.
+• Maximum resolution.
+• Preserve transparency.
+• No blur.
+• No compression.
+• Crisp edges.
+• Premium soft glow.
+• Elegant shadow.
+• Increase navbar height if necessary.
+• The logo must immediately attract attention.
+
+====================================================
+2. TEXT ALIGNMENT
+====================================================
+
+Apply this alignment rule consistently across the entire website.
+
+ONLY TITLES AND HEADINGS MUST BE CENTER ALIGNED.
+
+Examples:
+
+• Hero title
+• Section titles
+• Product titles
+• Technical Support title
+• Contact title
+• Catalog title
+
+ALL BODY CONTENT MUST REMAIN LEFT ALIGNED.
+
+Examples:
+
+• Paragraphs
+• Product descriptions
+• Technical descriptions
+• Bullet lists
+• Specifications
+• Contact information
+• Service descriptions
+
+Never center paragraph text.
+
+Only headings should be centered.
+
+====================================================
+3. FULL PRODUCT CATALOG
+====================================================
+
+The "Full Product Catalog" button must open the uploaded Duo Label Corporate Catalog PDF.
+
+Requirements:
+
+• Open in a NEW browser tab.
+• Never download automatically.
+• Never use a placeholder.
+• Always open the uploaded PDF.
+
+====================================================
+4. CONTACT & EMAIL SYSTEM
+====================================================
+
+The WhatsApp button should continue opening WhatsApp normally.
+
+EVERY OTHER CONTACT FORM AND REQUEST FORM MUST SEND A REAL EMAIL.
+
+Every quotation request, contact request or enquiry must automatically be sent to:
+
+info@duolabel.com
+
+Requirements:
+
+• Backend email system.
+• No mailto links.
+• Professional HTML email template.
+• Server-side validation.
+• Spam protection.
+• Rate limiting.
+• Secure credentials.
+
+Every email must include:
+
+• Customer Name
+• Company
+• Email Address
+• Phone Number
+• Country
+• Requested Product
+• Estimated Quantity
+• Technical Notes
+• Timestamp
+• Website Source
+
+After successful submission display a premium success animation.
+
+====================================================
+5. PRODUCT IMAGES
+====================================================
+
+I will upload a new image that contains premium label product photography.
+
+Replace ALL current product images with the uploaded image assets.
+
+Use those uploaded label visuals throughout the Products section.
+
+Requirements:
+
+• High resolution.
+• Premium presentation.
+• Realistic industrial photography.
+• Consistent lighting.
+• Proper spacing.
+• No awkward cropping.
+• Preserve image quality.
+
+The uploaded images should become the new visual identity of the Products section.
+
+====================================================
+6. FINAL QUALITY CONTROL
+====================================================
+
+Before completing this task verify ALL of the following:
+
+✅ Latest uploaded logo is used.
+
+✅ Logo is approximately 400–450% larger than the original.
+
+✅ Only headings are center aligned.
+
+✅ Every paragraph and body text is left aligned.
+
+✅ "Full Product Catalog" opens the uploaded PDF in a new browser tab.
+
+✅ Every form except WhatsApp sends real emails to:
+
+info@duolabel.com
+
+✅ Newly uploaded product images replace all existing product images.
+
+Do not consider this task complete until every requirement above has been fully implemented.
